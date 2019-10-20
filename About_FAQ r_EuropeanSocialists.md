@@ -1,15 +1,9 @@
----
-title: 'About/FAQ r/EuropeanSocialists'
----
-
 # About/FAQ r/EuropeanSocialists
 
-[TOC]
-
 ## About
-Our general line is the interests of the whole working people.
-We advocate revolution.
-We advocate socialism. 
+Our general line is the interests of the whole working people.<br>
+We advocate revolution.<br>
+We advocate socialism.<br>
 We advocate the dictatorship of the proletariat.
 
 ### Caution / Preamble
@@ -27,9 +21,9 @@ We consider Albania, Yugoslavia, the USSR, and the eastern bloc as socialists st
 ### Foreign issues
 We are firm supporters of anti imperialism.
 
-We firmly support real existing socialism, such as DRPK and Cuba. 
-We support countries victims of imperialism, such as Syria and Venezuela.
-On regards of china, even if some comrades disagree on china being socialist, it is our duty to defend china from imperialism.
+We firmly support real existing socialism, such as DRPK and Cuba.<br>
+We support countries victims of imperialism, such as Syria and Venezuela.<br>
+On regards of china, even if some comrades disagree on china being socialist, it is our duty to defend china from imperialism.<br>
 We fully support china in its fight against imperialism, especially on the recent attacks against it, such as the western backed HK riots.
 
 ### Socialists and communists states
@@ -37,12 +31,7 @@ Regarding our points of views about contemporary and historical states, we prefe
 
 However, we reject movements, such as the Khmer Rouge, that are total usurpation of our ideology.
 
-> Communism is for us not a state of affairs which is to be
-> established, an ideal to which reality [will] have to adjust itself.
-> We call communism the real movement which abolishes the present
-> state of things. The conditions of this movement result from the
-> premises now in existence
-[name=Karl Marx, The German Ideology]
+> Communism is for us not a state of affairs which is to be established, an ideal to which reality [will] have to adjust itself. We call communism the real movement which abolishes the present state of things. The conditions of this movement result from the premises now in existence ‒ Karl Marx, The German Ideology
 
 ## Supported Parties
 - Union of Communist Parties – Communist Party of the Soviet
